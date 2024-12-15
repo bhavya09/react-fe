@@ -1,0 +1,37 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th {
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+}
+
+button {
+  cursor: pointer;
+  margin-right: 10px;
+  background-color: violet;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.buttonsWrapper {
+  margin-top: 20px;
+}
